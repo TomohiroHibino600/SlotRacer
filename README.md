@@ -1,5 +1,5 @@
 # PUN2_slot_racer
-A portfolio of racing VR games created using PUN2
+A portfolio of racing VR games created using PUN2 ( Photon Unity Network )
 
 Slot Racer lets one to four players run a slot car on a truck.
 Instead of using the usual position sync, I use driven distance to sync the player's slot car on the track.
